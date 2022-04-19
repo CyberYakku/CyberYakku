@@ -15,7 +15,7 @@
 
 - 👨‍💻 The Android app we created [https://play.google.com/store/apps/dev?id=5032578617590453176](https://play.google.com/store/apps/dev?id=5032578617590453176)
 
-- 📝 An article about us [bit.ly/math_master_Article](bit.ly/math_master_Article)
+- 📝 An article about us [https://bit.ly/math_master_Article](https://bit.ly/math_master_Article)
 
 - 📫 How to reach me **cyberyakku@gmail.com**
 
